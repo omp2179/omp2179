@@ -39,8 +39,56 @@
 - 🔧 Building scalable applications using **Spring Boot**, **Hibernate**, and **REST APIs**
 - 🔭 Working with **Microservices**, **Apache Kafka**, and **Docker**
 - 📊 Strong foundation in **Data Structures and Algorithms (DSA)**
+- 🏆 Competitive Programmer with **1800+ problems solved** across platforms
 - 📚 Coursework: Data Structures and Algorithms, Database Management Systems (DBMS), Object-Oriented Programming
 - 💡 Passionate about **OOP principles** and building robust backend systems
+
+---
+
+## 🚀 Featured Project
+
+### [CacheCraft - 2D C++ Terminal Game Engine](https://github.com/omp2179/CacheCraft-2D-Cpp-Terminal-Engine)
+
+**A Minecraft-inspired 2D terminal game built from scratch in C++ with advanced CS/DSA concepts**
+
+🎮 **Key Features:**
+- **Infinite Chunked World** with Perlin/FBM procedural terrain generation and cave systems
+- **OOP Engine Architecture** - Chunk/World/ScreenBuffer, window stack system, 60 FPS game loop
+- **Advanced AI** - BFS pathfinding for mobs with gravity-aware navigation
+- **SoA Optimization** - Structure-of-Arrays design achieving **6.55× speedup** over Array-of-Structures
+- **Complete Gameplay** - Mining, building, inventory management, mob spawning, cheats system
+- **Performance Optimized** - Double-buffered rendering, lazy chunk loading, AI culling
+
+🛠️ **Technical Highlights:**
+- Custom hash functions for spatial data structures (`unordered_map<Coord, Chunk>`)
+- 4-octave FBM noise with smooth interpolation for natural terrain
+- Window stack architecture for clean UI state management
+- Delta-time based physics and collision detection
+- Xorshift32 PRNG for deterministic world generation
+
+📈 **Planned Advanced Features:**
+- Bloom filters for spatial optimization (targeting 95% fewer redundant checks)
+- Dynamic Programming for inventory optimization (0/1 Knapsack)
+- All features validated with comprehensive benchmarks
+
+---
+
+## 🏆 Competitive Programming Achievements
+
+### 🎖️ Ratings & Badges
+- **LeetCode**: Knight Badge | Max Rating: **2003** | [om2179](https://leetcode.com/om2179)
+- **Codeforces**: Specialist | Max Rating: **1541** | [0M2179](https://codeforces.com/profile/0M2179)
+- **CodeChef**: 4-Star Coder | Max Rating: **1802** | [om2179](https://www.codechef.com/users/om2179)
+
+### 🅺 Contest Highlights
+- **LeetCode Bi-weekly Contest 159**: Global Rank **399**
+- **Codeforces Educational Round 172**: Global Rank **1717**
+- **CodeChef Starters 151 (Div 3)**: Global Rank **31**
+- **Meta HackerCup 2024**: Qualified for **Round 2** (Top Global Participants)
+
+### 💪 Problem Solving
+- Solved **1800+ problems** across LeetCode, Codeforces, CodeChef, and other platforms
+- Strong expertise in Data Structures, Algorithms, and Competitive Programming
 
 ---
 
@@ -51,15 +99,8 @@
 - **Object-Oriented Programming (OOP)**
 - **Data Structures and Algorithms**
 - **Database Management Systems**
-
----
-
-## 🏆 Achievements
-
-- 🚀 Built microservices-based applications using Spring Boot
-- 🔥 Expertise in REST API design and implementation
-- 💾 Proficient in database design with PostgreSQL and MongoDB
-- ⚙️ Experienced with message-driven architecture using Apache Kafka
+- **Competitive Programming**
+- **System Design**
 
 ---
 
@@ -75,6 +116,9 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omp2179)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/om2179)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/0M2179)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/om2179)
 
 ---
 
