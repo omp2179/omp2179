@@ -1,8 +1,5 @@
 # Hi there, I'm Om Patel 👋
 
-🔗 **GitHub**: [github.com/omp2179](https://github.com/omp2179)  
-📧 **Email**: [Contact Me](mailto: omp2179@gmail.com)
-
 ---
 
 ## 🛠️ Tech Stack
