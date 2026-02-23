@@ -1,8 +1,7 @@
 # Hi there, I'm Om Patel 👋
 
 🔗 **GitHub**: [github.com/omp2179](https://github.com/omp2179)  
-📧 **Email**: [Contact Me](mailto:your-email@example.com)  
-📍 **Location**: Gandhinagar, Gujarat, India
+📧 **Email**: [Contact Me](mailto: omp2179@gmail.com)
 
 ---
 
@@ -53,12 +52,6 @@
 - Object-Oriented Programming (OOP)
 - Database Management Systems
 
-### Data Structures & Algorithms
-- Graph Algorithms & Pathfinding
-- Dynamic Programming
-- Hash-based Data Structures
-- Competitive Programming (LeetCode Knight, Codeforces Specialist, CodeChef 4-Star)
-
 ### System Design & Optimization
 - Data-Oriented Design
 - CPU Architecture & Cache Optimization
@@ -78,18 +71,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=omp2179&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omp2179&layout=compact&theme=radical)
-
----
-
 ## 🔗 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omp2179)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-patel-7b4226313/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/om2179)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/0M2179)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/om2179)
