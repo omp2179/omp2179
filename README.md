@@ -27,20 +27,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Software Developer focused on **Backend Development** and **Microservices Architecture**
-- 🔧 Building scalable applications using **Spring Boot**, **Hibernate**, and **REST APIs**
-- 🔭 Working with **Microservices**, **Apache Kafka**, and **Docker**
-- 📊 Strong foundation in **Data Structures and Algorithms (DSA)**
-- 🏆 Competitive Programmer with **1800+ problems solved** across platforms
-- 📚 Coursework: Data Structures and Algorithms, Database Management Systems (DBMS), Object-Oriented Programming
-- 💡 Passionate about **OOP principles** and building robust backend systems
 
 ---
 
@@ -58,16 +47,6 @@
 - High Performance Computing
 - Memory-efficient Data Structures
 - Performance Benchmarking
-
----
-
-## 🏆 Achievements
-
-- 🎯 **LeetCode**: Knight Badge (Max Rating: 2003) | Global Rank 399 in Bi-weekly Contest 159
-- 📈 **Codeforces**: Specialist (Max Rating: 1541) | Global Rank 1717 in Educational Round 172
-- ⭐ **CodeChef**: 4-Star Coder (Max Rating: 1802) | Global Rank 31 in Starters 151 (Div 3)
-- 🏅 **Meta HackerCup 2024**: Qualified for Round 2, ranking among top global participants
-- 💪 **Problem Solving**: Solved 1800+ DSA and Competitive Programming problems across various platforms
 
 ---
 
