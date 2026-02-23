@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=32&duration=2500&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+OM;Software+Engineer;Java+%7C+C%2B%2B+%7C+Spring+Boot" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Om Patel</h3>
-
 ---
 
 ## 🛠️ Tech Stack
