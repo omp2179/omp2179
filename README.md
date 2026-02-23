@@ -1,6 +1,6 @@
-<!-- Animated Typing Header with Terminal Style -->
+<!-- Animated Typing Header with Linux Terminal Style -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+OM+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Java+%7C+C%2B%2B+%7C+Spring+Boot+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=700&size=38&duration=2000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+OM+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Java+%7C+C%2B%2B+%7C+Spring+Boot+%E2%98%95" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Om Patel</h3>
