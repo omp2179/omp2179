@@ -7,6 +7,11 @@
 
 ## 🛠️ Tech Stack
 
+<!-- Animated Skills Cloud -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,spring,hibernate,postgres,mongodb,redis,kafka,docker,git,github,postman,linux&perline=7&theme=dark" alt="Skills" />
+</p>
+
 ### Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -35,6 +40,16 @@
 
 ## 💻 Key Concepts & Skills
 
+<!-- Rotating Tech Stack Icons -->
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/kafka-icon.svg" alt="Kafka" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+</p>
+
 ### Backend & Microservices
 - Microservices Architecture
 - REST APIs
@@ -47,6 +62,13 @@
 - High Performance Computing
 - Memory-efficient Data Structures
 - Performance Benchmarking
+
+---
+
+<!-- GitHub Contribution Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/omp2179/omp2179/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
 ---
 
